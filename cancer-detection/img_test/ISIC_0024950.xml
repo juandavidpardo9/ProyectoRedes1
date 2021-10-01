@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ISIC_0024950.jpg</filename>
+	<path>C:\Users\david\Desktop\6to semestre\Redes\cancer-detection\images\ISIC_0024950.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lesion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>43</ymin>
+			<xmax>489</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>
